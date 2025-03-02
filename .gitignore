@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ApiGateway/bin/Debug/net9.0
+/ApiGateway/obj
+/ApiGateway/.vs/ApiGateway/FileContentIndex
+/APIGatewayWithOcelot/.vs/APIGatewayWithOcelot
+/APIGatewayWithOcelot/ApiGateway/bin/Debug/net9.0
+/APIGatewayWithOcelot/ApiGateway/obj/Debug/net9.0
+/APIGatewayWithOcelot/ApiGateway/obj
+/APIGatewayWithOcelot/OrderService/bin/Debug/net9.0
+/APIGatewayWithOcelot/OrderService/obj
+/APIGatewayWithOcelot/ProductSerivce/bin/Debug/net9.0
+/APIGatewayWithOcelot/ProductSerivce/obj
